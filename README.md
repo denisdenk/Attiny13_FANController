@@ -6,8 +6,8 @@ When changing the parameters of the operating modes, they are saved in the inter
 
 PINOUT:
 
-PB3 -> LED
-PB4 -> Button+ Work time
-PB0 -> Button+ Relax time
-PB1 -> Button Change work mode
-PB2 -> Output for motor
+PB3 -> LED;
+PB4 -> Button+ Work time;
+PB0 -> Button+ Relax time;
+PB1 -> Button Change work mode;
+PB2 -> Output for motor.
